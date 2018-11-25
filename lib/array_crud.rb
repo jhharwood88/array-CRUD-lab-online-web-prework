@@ -17,10 +17,15 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
+<<<<<<< HEAD
   
   remove_element_from_end_of_array = ["I", "am", "really", "learning", "arrays!"]
   remove_element_from_end_of_array.pop
   
+=======
+  remove_element_from_end_of_array ["box" , "bib", 'arrays!']
+  remove_element_from_start_of_array.pop("arrays!")
+>>>>>>> 09749674d2079f9bb1127b97f412cfea61f4c800
 end
 
 def remove_element_from_start_of_array(array)
